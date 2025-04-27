@@ -14,3 +14,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+ <img src="assets/images/onboarding_screen_one.jpg" alt="Screen One" width="300"/>
+<img src="assets/images/onboarding_screen_two.jpg" alt="Screen Two" width="300"/>
+<img src="assets/images/onboarding_screen_three.jpg" alt="Screen Three" width="300"/>
+</div>
+<div style="display: flex; justify-content: center; gap: 10px;">
+ <img src="assets/images/register_screen.jpg" alt="Screen One" width="300"/>
+<img src="assets/images/login_screen.jpg" alt="Screen Two" width="300"/>
+<img src="assets/images/start_screen.jpg" alt="Screen Three" width="300"/>
+</div>
+<div style="display: flex; justify-content: center; gap: 10px;">
+ <img src="assets/images/drawer_screen.jpg" alt="Screen One" width="300"/>
+<img src="assets/images/home_screen.jpg" alt="Screen Two" width="300"/>
+</div>
